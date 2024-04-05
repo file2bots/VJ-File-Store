@@ -1,7 +1,7 @@
-Pyrogram
-Tgcrypto
+Pyrogram==2.0.106
+Tgcrypto<=1.2.3
 asyncio
-aiohttp
+aiohttp<=3.8.1
 pymongo[srv]==3.12.3
 motor==2.5.1
 marshmallow==3.14.1
