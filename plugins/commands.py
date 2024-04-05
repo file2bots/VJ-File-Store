@@ -63,7 +63,7 @@ async def start(client, message):
             InlineKeyboardButton('💝 Sᴜʙsᴄʀɪʙᴇ Mʏ Cʜᴀɴɴᴇʟ', url='https://t.me/+uL0218mcwjNmNjNl')
             ],[
             InlineKeyboardButton('🔍 Movie Gʀᴏᴜᴘ', url='https://t.me/+qOc64mDDNF02YmJl'),
-            InlineKeyboardButton('🤖 Dᴀɪʟᴇ Movie Uᴘᴅᴀᴛᴇ', url='https://t.me/vj_botz')
+            InlineKeyboardButton('🤖 Dᴀɪʟᴇ Movie Uᴘᴅᴀᴛᴇ', url='https://t.me/+6mOOrKjew-40NTVl')
             ],[
             InlineKeyboardButton('🤖 Cʀᴇᴀᴛᴇ Yᴏᴜʀ Oᴡɴ Cʟᴏɴᴇ Bᴏᴛ', callback_data='clone')
             ],[
@@ -340,7 +340,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('💝 Sᴜʙsᴄʀɪʙᴇ Mʏ Cʜᴀɴɴᴇʟ', url='https://t.me/+uL0218mcwjNmNjNl')
             ],[
-            InlineKeyboardButton('🔍 24/7 Movie Gʀᴏᴜᴘ', url='https://t.me/vj_bot_disscussion'),
+            InlineKeyboardButton('🔍 24/7 Movie Gʀᴏᴜᴘ', url='https://t.me/+qOc64mDDNF02YmJl'),
             InlineKeyboardButton('🤖 Dᴀɪʟᴇ Movie Uᴘᴅᴀᴛᴇ', url='https://t.me/+6mOOrKjew-40NTVl')
             ],[
             InlineKeyboardButton('🤖 Cʀᴇᴀᴛᴇ Yᴏᴜʀ Oᴡɴ Cʟᴏɴᴇ Bᴏᴛ', callback_data='clone')
